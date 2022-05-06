@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Opzioni</string>
+    <string name="function1_edit">Funzione 1</string>
+    <string name="function2_edit">Funzione 2</string>
+    <string name="function3_edit">Funzione 3</string>
+    <string name="function4_edit">Funzione 4</string>
+    <string name="Draw_but">Grafica</string>
+    <string name="msg_x_finish">Fine  </string>
+    <string name="msg_x_start">Inizio</string>
+    <string name="error_msg_function">Errore funzione non valida</string>
+    <string name="error_msg_interval">Errore intervalli non validi</string>
+    <string name="credits_msg">Creato da: P.F. Contino A. Ponzo E. Agostini</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Aigrafico</string>
+    <string name="action_settings">Settings</string>
+    <string name="function1_edit">Function 1</string>
+    <string name="function2_edit">Function 2</string>
+    <string name="function3_edit">Function 3</string>
+    <string name="function4_edit">Function 4</string>
+    <string name="Draw_but">Draw</string>
+    <string name="msg_x_start">Start</string>
+    <string name="msg_x_finish">End  </string>
+    <string name="error_msg_function">Error function not valid</string>
+    <string name="error_msg_interval">Error inteval not valid</string>
+    <string name="credits" translatable="false">Credits</string>
+    <string name="credits_msg">Created by: P. F. Contino A. Ponzo E.  Agostini</string>
+</resources>

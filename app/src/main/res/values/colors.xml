@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bianco">#ffffff</color>
+    <color name="celeste">#7dd5f8</color>
+    <color name="Arancione">#ffbb33</color>
+    <color name="Verde">#5fff33</color>
+    <color name="Viola">#eb44ee</color>
+    <color name="trasparente">@android:color/transparent</color>
+</resources>
